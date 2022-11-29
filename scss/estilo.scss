@@ -66,5 +66,7 @@ nav {
 }
 
 div{
-    @include piedepagina;
-} 
+    margin: auto;
+    max-width: 90%;
+    text-align: center;
+}
