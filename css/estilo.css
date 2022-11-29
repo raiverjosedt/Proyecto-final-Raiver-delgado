@@ -41,6 +41,11 @@ a:hover {
   text-align: center;
   max-width: 90%;
 }
+.carousel-inner img {
+  margin: auto;
+  max-width: 90%;
+}
+
 nav {
   color: aqua;
 }
